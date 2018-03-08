@@ -1,0 +1,9 @@
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\bin\Debug\jenkinsTestProject.exe.config
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\bin\Debug\jenkinsTestProject.exe
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\bin\Debug\jenkinsTestProject.pdb
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\obj\Debug\jenkinsTestProject.csprojResolveAssemblyReference.cache
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\obj\Debug\jenkinsTestProject.Form1.resources
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\obj\Debug\jenkinsTestProject.Properties.Resources.resources
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\obj\Debug\jenkinsTestProject.csproj.GenerateResource.Cache
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\obj\Debug\jenkinsTestProject.exe
+c:\users\nimrod\documents\visual studio 2015\Projects\jenkinsTestProject\jenkinsTestProject\obj\Debug\jenkinsTestProject.pdb
